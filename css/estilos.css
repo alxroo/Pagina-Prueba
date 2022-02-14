@@ -3,3 +3,14 @@
     padding: 0;
     box-sizing: border-box;
 }
+.cabecera{
+    width: 100%;
+    height: 400px;
+    text-align: center;
+}
+.cabecera__container{
+    width: 80%;
+    height: 50%;
+    background: green;
+    border: #000 solid 3px;
+}
